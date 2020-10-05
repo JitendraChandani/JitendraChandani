@@ -33,7 +33,7 @@ I am **Jitendra Chandani** presently working as **Technical Architect ** in **[i
 
 ### Github Stats:
 
-<img align="left" alt="Jitendra's Github Stats" src="https://github-readme-stats-jchandani.vercel.app/api?username=JitendraChandani&count_private=true&show_icons=true&hide_border=true&hide=prs" />
+<img align="left" alt="Jitendra's Github Stats" src="https://github-readme-stats-jchandani.vercel.app/api?username=JitendraChandani&count_private=true&show_icons=true&hide=prs" />
 
 [![Top Langs](https://github-readme-stats-jchandani.vercel.app/api/top-langs/?username=JitendraChandani&count_private=true)](https://github.com/JitendraChandani/github-readme-stats)
 
