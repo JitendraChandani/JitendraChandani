@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Jitendra Chandani** presently working as **Technical Architect ** in **[i95Dev][job]**. My daily activities are on a CI/CD solutions and Infrastructure Architect for Java and eCommerce based applications in major cloud platforms like **[AWS][aws]** and **[Google][gks]**. 
+I am **Jitendra Chandani** presently working as **Technical Architect** in **[i95Dev][job]**. My daily activities are on a CI/CD solutions and Infrastructure Architect for Java and eCommerce based applications in major cloud platforms like **[AWS][aws]** and **[Google][gks]**. 
 
 
 <br />
